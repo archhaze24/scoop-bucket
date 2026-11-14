@@ -1,14 +1,14 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Kirby's music organizer: covers, synced lyrics, FLAC to Opus, ReplayGain",
     "homepage": "https://github.com/archhaze24/korg",
     "license": "MIT",
     "notes": "korg needs opusenc and rsgain in PATH, and an rsgain preset named opus. See https://github.com/archhaze24/korg#requirements",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/archhaze24/korg/releases/download/v0.1.0/korg-v0.1.0-x86_64-pc-windows-msvc.zip",
-            "hash": "2c58be02ce10c005ea196b6abf6ace9c29904887dd01cceec378cd0539edc20c",
-            "extract_dir": "korg-v0.1.0-x86_64-pc-windows-msvc"
+            "url": "https://github.com/archhaze24/korg/releases/download/v0.2.0/korg-v0.2.0-x86_64-pc-windows-msvc.zip",
+            "hash": "792750b62c67a2cef25c6d6fe9c3473475bceca345d1973bd86bc6a2ba786cc4",
+            "extract_dir": "korg-v0.2.0-x86_64-pc-windows-msvc"
         }
     },
     "bin": "korg.exe",
