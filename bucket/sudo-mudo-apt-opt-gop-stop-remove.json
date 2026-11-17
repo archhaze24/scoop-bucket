@@ -1,13 +1,13 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "when you really want to nuke the shit out of some files",
     "homepage": "https://github.com/thisislinuxmasterrace/sudo-mudo-apt-opt-gop-stop-remove",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/thisislinuxmasterrace/sudo-mudo-apt-opt-gop-stop-remove/releases/download/v0.2.0/sudo-mudo-apt-opt-gop-stop-remove-v0.2.0-x86_64-pc-windows-msvc.zip",
-            "hash": "40240cc99cb3a7e7decbf443a2242464539bfb1bacc38ef5dbf6e6735be93248",
-            "extract_dir": "sudo-mudo-apt-opt-gop-stop-remove-v0.2.0-x86_64-pc-windows-msvc"
+            "url": "https://github.com/thisislinuxmasterrace/sudo-mudo-apt-opt-gop-stop-remove/releases/download/v0.2.1/sudo-mudo-apt-opt-gop-stop-remove-v0.2.1-x86_64-pc-windows-msvc.zip",
+            "hash": "ad3e73b1fc77f73280a0531272de632a38bf247decd7ade9b970e9f49ceda2a8",
+            "extract_dir": "sudo-mudo-apt-opt-gop-stop-remove-v0.2.1-x86_64-pc-windows-msvc"
         }
     },
     "bin": "mudo.exe",
