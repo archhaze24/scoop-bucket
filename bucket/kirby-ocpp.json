@@ -1,13 +1,13 @@
 {
-    "version": "0.6.0",
-    "description": "OCPP 1.6J charge point emulator (kirby-ocpp) and central system (kirby-csms) for testing",
+    "version": "0.7.0",
+    "description": "OCPP 1.6J and 2.0.1 charge point emulator (kirby-ocpp) and central system (kirby-csms) for testing",
     "homepage": "https://github.com/archhaze24/kirby-ocpp",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/archhaze24/kirby-ocpp/releases/download/v0.6.0/kirby-ocpp-v0.6.0-x86_64-pc-windows-msvc.zip",
-            "hash": "47c39cde200fb022d33c7ae09487597364800d9d3e4e5d54bcf42ac3c18fc7ed",
-            "extract_dir": "kirby-ocpp-v0.6.0-x86_64-pc-windows-msvc"
+            "url": "https://github.com/archhaze24/kirby-ocpp/releases/download/v0.7.0/kirby-ocpp-v0.7.0-x86_64-pc-windows-msvc.zip",
+            "hash": "186fd852590179b72ae228d328afe1f70f215ab0d49ba3fd0e1a1b28d74d097a",
+            "extract_dir": "kirby-ocpp-v0.7.0-x86_64-pc-windows-msvc"
         }
     },
     "bin": [
